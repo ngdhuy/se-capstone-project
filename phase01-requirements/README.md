@@ -52,4 +52,4 @@ After that, the team can brain storm to define advance feature such as connect t
             * API Mockup Design 
             * Database Schema Design
 
-Using template from [https://jdbv.sourceforge.net/RUP.html](https://jdbv.sourceforge.net/RUP.html)
+Using template from [https://sceweb.sce.uhcl.edu/helm/RUP_Folder/RationalUnifiedProcess/process/templates.htm](https://sceweb.sce.uhcl.edu/helm/RUP_Folder/RationalUnifiedProcess/process/templates.htm)
